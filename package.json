@@ -1,0 +1,27 @@
+{
+  "name": "flattenarray",
+  "version": "1.0.0",
+  "description": "Flatten deeply nested array ",
+  "main": "flatten.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshuadnorman/resGuru_flattenArray.git"
+  },
+  "keywords": [
+    "flatten",
+    "array",
+    "nested"
+  ],
+  "author": "Joshua Norman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuadnorman/resGuru_flattenArray/issues"
+  },
+  "homepage": "https://github.com/joshuadnorman/resGuru_flattenArray#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
