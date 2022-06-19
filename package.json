@@ -2,9 +2,10 @@
   "name": "flattenarray",
   "version": "1.0.0",
   "description": "Flatten deeply nested array ",
-  "main": "flatten.js",
+  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start":"node index.js"
   },
   "repository": {
     "type": "git",
